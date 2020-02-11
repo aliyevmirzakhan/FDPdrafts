@@ -1,0 +1,36 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+welly = "*"
+lasio = "*"
+ipykernel = "*"
+jupyterlab = "*"
+image = "*"
+sklearn = "*"
+pyqt5 = "*"
+mplcursors = "*"
+vtk = "*"
+imageio = "*"
+pyvista = "*"
+theano = "*"
+cython = "*"
+pytest = "*"
+seaborn = "*"
+networkx = "*"
+nbsphinx = "*"
+ipywidgets = "*"
+gempy = "*"
+pyporj = "*"
+pyproj = "*"
+scipy = "*"
+
+[requires]
+python_version = "3.6"
